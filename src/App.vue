@@ -1,5 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div></div>
+  <main>
+    <h1>Rozhrátko</h1>
+  </main>
 </template>
