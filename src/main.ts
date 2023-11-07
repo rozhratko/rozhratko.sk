@@ -1,4 +1,5 @@
 import 'normalize.css'
+import '@fontsource/sriracha'
 
 import { createApp } from 'vue'
 import App from './App.vue'

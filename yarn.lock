@@ -176,6 +176,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.53.0.tgz#bea56f2ed2b5baea164348ff4d5a879f6f81f20d"
   integrity sha512-Kn7K8dx/5U6+cT1yEhpX1w4PCSg0M+XyRILPgvwcEBjerFWCwQj5sbr3/VmxqV0JGHCBCzyd6LxypEuehypY1w==
 
+"@fontsource/sriracha@^5.0.17":
+  version "5.0.17"
+  resolved "https://registry.yarnpkg.com/@fontsource/sriracha/-/sriracha-5.0.17.tgz#781f711a58d7ce7faa6dbf6502be3eefa73f7ade"
+  integrity sha512-GKD/uVHlxV3i6kkwUNsZ73fGS8C1YNajttZelO9eHSKU4DHvDeAsR+2gpeKv9UtUsapNsoF0qfd5jjGRNH3V6w==
+
 "@humanwhocodes/config-array@^0.11.13":
   version "0.11.13"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.13.tgz#075dc9684f40a531d9b26b0822153c1e832ee297"

@@ -12,6 +12,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@fontsource/sriracha": "^5.0.17",
     "normalize.css": "^8.0.1",
     "vue": "^3.3.4"
   },
