@@ -8,13 +8,13 @@ built using Vite and Vue.
 ### Install dependencies
 
 ```bash
-yarn
+bun install
 ```
 
 ### Run development server
 
 ```bash
-yarn dev
+bun run dev
 ```
 
 ## Favicon
